@@ -1,5 +1,7 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:venv",
     "python-envs.defaultPackageManager": "ms-python.python:pip",
-    "python.defaultInterpreterPath": ".venv-dl/bin/python"
+    "python.defaultInterpreterPath": ".venv-dl/bin/python",
+    "editor.tabSize": 4,
+    "editor.fontSize": 16
 }
